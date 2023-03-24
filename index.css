@@ -1,0 +1,41 @@
+
+
+button{
+    border: none;
+    padding: 13px 20px;
+    margin: 10px;
+    border-radius: 45px;
+}
+
+body{
+    background-color: burlywood;
+
+}
+
+.pad{
+    display: inline-block;
+    width: 300px;
+    background-color: rgb(237, 247, 247);
+    padding: 10px;
+    box-shadow: 1px 1px 1px 1px;
+}
+input{
+    display: inline-block; 
+    text-align: right; 
+    width: 95%;
+    color:#ebf5f5
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+span{
+    display: inline-block;
+    text-align: right; 
+    width: 95%;
+    color: rgb(138, 115, 115);
+    background-color:   rgb(241, 232, 232);
+}
